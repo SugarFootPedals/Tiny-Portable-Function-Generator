@@ -1,4 +1,4 @@
-Tiny Function Generator is a project by Technobly.com.
+Tiny Function Generator is a project by Technoblogy.com.
 
 It outputs a Frequency from 1Hz to 5,000Hz. Sinewave, Triangle Wave, SquareWave, pulses, Sawtooth and Noise (no frequency adjustments avaialble on Noise setting)
 
@@ -9,7 +9,8 @@ This circuit is based on his schematic and code -  I added a voltage regulator a
 MUST USE the SpenceKonde ATTinyCore library to program the ATTiny85 via the Arduino IDE !!!
 (https://github.com/SpenceKonde/ATTinyCore/issues/288) 
 Burn the bootloader, then upload the code.
-See the Technobly.com website for full details !
+See the Technoblogy.com website for full details !
+http://www.technoblogy.com/show?2FCL
 
 The Output is marked "+" , while there are TWO Grounds to choose; one is a "virtual" ground desiganted by "--", and there is a power supply ground designated by "GND" . 
 Choose the one best for your project.
